@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Whoever is happy will make others happy too"-Anne Frank
 Use the left arrow to go back!
